@@ -4,7 +4,7 @@ public class RWOnly {
     private String name;
 
     //getter:
-    public int getName(){
+    public String getName(){
         return this.name;
     }
     //setter
