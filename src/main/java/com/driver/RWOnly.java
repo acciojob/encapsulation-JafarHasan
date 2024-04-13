@@ -4,11 +4,11 @@ public class RWOnly {
     private int no;
 
     //getter:
-    public int getNo(){
+    public int getter(){
         return this.no;
     }
     //setter
-    public void setNo(int No){
+    public void setter(int No){
         this.no=No;
     }
 }
